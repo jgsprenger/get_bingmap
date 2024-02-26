@@ -2,17 +2,23 @@
 ## works with ggmap 
 - allows retrieval of free bing map images to be used with excellent ggmap package. 
 
-(credits to @dkahle and many others)
+(credits to [@dkahle](https://github.com/dkahle) and many others)
 
 ## Uses
-this uses https://elipousson.github.io/bingmapr/ package
+this uses 
+
+https://elipousson.github.io/bingmapr/ package
+
 to install...
 ```
     pak::pkg_install("elipousson/bingmapr")
 ```
-    (credits to @elipousson)
 
-also uses ggmap
+(credits to [@elipousson](https://github.com/elipousson))
+    
+
+also uses ggmap (link here - https://github.com/dkahle/ggmap)
+
     
 ## Bing Maps API 
 You have to register for a free API key on bin maps
