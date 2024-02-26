@@ -21,7 +21,7 @@ also uses ggmap (link here - https://github.com/dkahle/ggmap)
 
     
 ## Bing Maps API 
-You have to register for a free API key on bin maps
+You have to register for a free API key on bing maps
     https://learn.microsoft.com/en-us/bingmaps/getting-started/bing-maps-dev-center-help/getting-a-bing-maps-key
 
 
